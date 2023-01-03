@@ -44,7 +44,7 @@
 第一步:
 
 ```shell
-$ composer require d-os/jwt
+$ composer require weileawntieba/dos-jwt
 ```
 
 第二步:

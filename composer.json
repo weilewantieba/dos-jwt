@@ -1,10 +1,10 @@
 {
-    "name": "weileawntieba/dos-jwt",
+    "name": "weilewantieba/dos-jwt",
     "description": "thinkphp  jwt auth composer",
     "type": "library",
     "require": {
         "php": "^7.0 || ^8.0",
-        "weileawntieba/jwt": "3.3.*", 
+        "weilewantieba/jwt": "3.3.*", 
         "topthink/framework": "^5.1.10 || ^6.0.0"
     },
     "license": "MIT",

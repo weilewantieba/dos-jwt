@@ -31,6 +31,5 @@
                 "jwt": "config/config.php"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }

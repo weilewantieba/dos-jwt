@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Dr",
-            "email": "334385600@qq.com"
+            "name": "weilewantieba",
+            "email": "weilewantieba@126.com"
         }
     ],
     "autoload": {
@@ -32,7 +32,7 @@
             }
         },
 		"branch-alias": {
-		    "dev-master": "1.1-dev"
+		    "dev-master": "dev-master"
 		}
     },
     "minimum-stability": "dev"
